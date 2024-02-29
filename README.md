@@ -1,2 +1,4 @@
-# EarthUntrial
-Earth Untrial, dynamic environments, scarcity challenges, and authentic crafting. Explore diverse biomes, encounter wildlife, and collaborate to survive.
+<h1 align="center">Earth Untrial</h1>
+
+> [!NOTE]
+> This repository does not have any source code!
